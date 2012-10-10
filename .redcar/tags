@@ -1,0 +1,8 @@
+1327336707
+Application	C:/Sites/valdez/config/application.rb	  class Application 
+ApplicationController	C:/Sites/valdez/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Sites/valdez/app/helpers/application_helper.rb	module ApplicationHelper
+HomeController	C:/Sites/valdez/app/controllers/home_controller.rb	class HomeController 
+HomeHelper	C:/Sites/valdez/app/helpers/home_helper.rb	module HomeHelper
+Valdez	C:/Sites/valdez/config/application.rb	module Valdez
+index	C:/Sites/valdez/app/controllers/home_controller.rb	  def index
